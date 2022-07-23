@@ -1,7 +1,7 @@
 // const options = {
 // 	method: 'GET',
 // 	headers: {
-// 		'X-RapidAPI-Key': 'a7820b69a8msh7fa00a4da51b1fap1f68bcjsn9516d537ea02',
+// 		'X-RapidAPI-Key': '0317d0b469mshe1768b308e6b45dp162f3ejsn890982ea8413',
 // 		'X-RapidAPI-Host': 'online-movie-database.p.rapidapi.com'
 // 	}
 // };
